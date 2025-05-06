@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: document-generator
+
+server:
+  port: 8081
